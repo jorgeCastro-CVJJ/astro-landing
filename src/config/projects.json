@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Farm Land",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur vel, rem aut nesciunt porro ullam minus quos a nobis voluptatem in. Quia ab quibusdam unde expedita? Excepturi veniam aut delectus quasi ducimus amet tenetur voluptates blanditiis placeat. Voluptate nobis deserunt maiores sint nisi, qui maxime ab totam explicabo? Aperiam, consequuntur.",
+        "image": "images/appretiation.svg"
+    },
+    {
+        "title": "ChatGPT-3",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur vel, rem aut nesciunt porro ullam minus quos a nobis voluptatem in. Quia ab quibusdam unde expedita? Excepturi veniam aut delectus quasi ducimus amet tenetur voluptates blanditiis placeat. Voluptate nobis deserunt maiores sint nisi, qui maxime ab totam explicabo? Aperiam, consequuntur.",
+        "image": "images/write.svg"
+    },
+    {
+        "title": "Maker-Taker",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur vel, rem aut nesciunt porro ullam minus quos a nobis voluptatem in. Quia ab quibusdam unde expedita? Excepturi veniam aut delectus quasi ducimus amet tenetur voluptates blanditiis placeat. Voluptate nobis deserunt maiores sint nisi, qui maxime ab totam explicabo? Aperiam, consequuntur.",
+        "image": "images/encrypted.svg"
+    },
+    {
+        "title": "TecWay",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur vel, rem aut nesciunt porro ullam minus quos a nobis voluptatem in. Quia ab quibusdam unde expedita? Excepturi veniam aut delectus quasi ducimus amet tenetur voluptates blanditiis placeat. Voluptate nobis deserunt maiores sint nisi, qui maxime ab totam explicabo? Aperiam, consequuntur.",
+        "image": "images/design.svg"
+    }
+]

@@ -18,5 +18,15 @@
         "title": "TecWay",
         "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur vel, rem aut nesciunt porro ullam minus quos a nobis voluptatem in. Quia ab quibusdam unde expedita? Excepturi veniam aut delectus quasi ducimus amet tenetur voluptates blanditiis placeat. Voluptate nobis deserunt maiores sint nisi, qui maxime ab totam explicabo? Aperiam, consequuntur.",
         "image": "images/design.svg"
+    },
+    {
+        "title": "ChatGPT-3",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur vel, rem aut nesciunt porro ullam minus quos a nobis voluptatem in. Quia ab quibusdam unde expedita? Excepturi veniam aut delectus quasi ducimus amet tenetur voluptates blanditiis placeat. Voluptate nobis deserunt maiores sint nisi, qui maxime ab totam explicabo? Aperiam, consequuntur.",
+        "image":"images/AI_image.svg"
+    },
+    {
+        "title": "Fotografía de Retrato",
+        "description": "Capturar la esencia de una persona en una fotografía es una de las cosas más difíciles que existen. Pero no es imposible. Con la ayuda de un buen fotógrafo, puedes conseguir que tu retrato sea único y especial. Con este proyecto apliqué mis conocimientos de iluminación y composición para crear una fotografía de retrato que reflejara la personalidad de la persona retratada.",
+        "image": "images/photo.svg"
     }
 ]

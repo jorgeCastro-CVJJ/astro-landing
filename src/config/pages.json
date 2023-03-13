@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Inicio",
+        "route": "/astro-landing/"
+    },
+    {
+        "title": "Avisos",
+        "route": "/astro-landing/proyectos/"
+    },
+    {
+        "title": "Agregar Cursos",
+        "route": "/astro-landing/becas/"
+    },
+    {
+        "title": "Ver Cursos",
+        "route": "/astro-landing/cursos/"
+    },
+    {
+        "title": "Pagos",
+        "route": "/astro-landing/about/"
+    },
+    {
+        "title": "Estadísticas",
+        "route": "/astro-landing/about/"
+    },
+    {
+        "title": "Becas y Programas",
+        "route": "/astro-landing/about/"
+    }        
+]
